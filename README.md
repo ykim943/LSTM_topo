@@ -6,4 +6,4 @@ Brift: Understanding corrosion behavior is crucial for enhancing steel durabilit
 # Repository Contents
 1. Analysis code for model training and validation.
 
-Our homepage: https://sites.google.com/view/yunseokkim/home?authuser=0
+Lab's homepage: https://sites.google.com/view/yunseokkim/home?authuser=0
