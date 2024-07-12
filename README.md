@@ -6,5 +6,3 @@ Corrosion Science
 1. Analysis code for model training and validation.
 
 Lab's homepage: https://sites.google.com/view/yunseokkim/home?authuser=0
-
-add
